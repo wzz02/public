@@ -13,6 +13,8 @@
 
 ## 相关资料
 
+- [教材电子版（文泉学堂）](https://lib-tsinghua.wqxuetang.com/book/188655)
+
 - [教材电子版（排版 by Jingxuan Yang）](https://www.jingxuanyang.com/Functional-Analysis/fabasic.pdf)
 
 - [学习指导和习题详解 by duskmoon](https://duskmoon314.github.io/THU_BFA)
